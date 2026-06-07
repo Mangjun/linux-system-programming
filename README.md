@@ -20,7 +20,7 @@
 ### Phase 1: 파일 시스템과 입출력 (File I/O Subsystem)
 - [x] **`01_file_basic/`**: 고수준(High-level) 표준 입출력 라이브러리 기초 (fopen, fread, fwrite 등)
 - [x] **`02_file_low/`**: 저수준(Low-level) 시스템 콜 인터페이스 (open, read, write, 파일 디스크립터의 이해)
-- [ ] **`03_file_advanced/`**: 고급 파일 제어 (fcntl, 파일 잠금, I/O 멀티플렉싱, 메모리 맵핑 등)
+- [x] **`03_file_advanced/`**: 고급 파일 제어 (fcntl, 파일 잠금, I/O 멀티플렉싱, 메모리 맵핑 등)
 
 ### Phase 2: 프로세스와 스레드 제어 (Process & Thread Management)
 - [ ] **`04_process/`**: 프로세스 생성 및 종료 (fork, exec, wait), 좀비/고아 프로세스 관리 및 프로세스 간 동기화 기법
